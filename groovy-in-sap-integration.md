@@ -1,5 +1,5 @@
 ---
-name: sap-cpi-groovy
+name: groovy-in-sap-integration
 description: Author Groovy scripts for the Script step in SAP Cloud Integration (SAP CPI, Integration Suite, Cloud Platform Integration, iFlows). Use this whenever the request involves Groovy inside an iFlow, a processData script, the Camel message with its headers, properties and attachments, XmlSlurper or JsonSlurper over a CPI payload, or any "write me a script for my iFlow" ask. Use it also when the user pastes an existing CPI Groovy script and wants it extended, refactored or fixed. Groovy running inside CPI has non-obvious constraints that generic Groovy knowledge gets wrong on a regular basis, so consult this skill even when the task looks like a trivial snippet.
 ---
 
